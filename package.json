@@ -1,6 +1,6 @@
 {
   "name": "react-native-macos-fast-image",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "test",
   "main": "dist/index",
   "types": "dist/index.d.ts",
